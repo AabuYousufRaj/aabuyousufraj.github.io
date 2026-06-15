@@ -30,7 +30,7 @@ export const educationData: Education[] = [
     ],
   },
   {
-    year: "2011 - 2018",
+    year: "2014 - 2021",
     institution: "Military Collegiate School Khulna (MCSK)",
     logo: "/assets/images/education/MCSK_Logo.png",
     programs: [
