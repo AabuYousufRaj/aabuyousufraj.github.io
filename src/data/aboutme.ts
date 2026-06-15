@@ -29,7 +29,7 @@ export const aboutMe: AboutMe = {
   + "Outside research and engineering, I am unapologetically sporty and into almost every kind of sport, especially football, the European kind. I am a huge Real Madrid fan and a die-hard supporter of Cristiano Ronaldo. In my leisure time, you will usually find me playing chess, relaxing with mobile games like PUBG, COC, and PES, or diving into movies, series, and K-dramas. I also love rewatching comfort shows like The Big Bang Theory, my all-time favorite, and I have a soft spot for old Bollywood romantic films.<br>",
 
   email: "aabuyousufraj@gmail.com",
-  imageUrl: "/assets/images/photo.jpeg",
+  imageUrl: "/assets/images/photo.jpg",
   githubUsername: "AabuYousufRaj",
   linkedinUsername: "aabuyousufraj",
   // blogUrl: "https://",
