@@ -33,7 +33,7 @@ export const aboutMe: AboutMe = {
   githubUsername: "AabuYousufRaj",
   linkedinUsername: "aabuyousufraj",
   // blogUrl: "https://",
-  // googleScholarUrl: "https://scholar.google.com/citations?user=07812345678901234567890123456789",
+  googleScholarUrl: "https://scholar.google.com/citations?user=uCTGEpIAAAAJ&hl=en",
   // twitterUsername: "YousufRaj1552",
   cvUrl: "/assets/pdf/cv.pdf",
   altName: "Prospective Graduate Research Candidate",
