@@ -28,8 +28,12 @@ const ptSerif = PT_Serif({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://aabuyousufraj.github.io"),
   title: customMetadata.title || aboutMe.name,
   description: customMetadata.description || aboutMe.description,
+  verification: {
+    google: "CnGHW8e-3WlF_kCRMfx_9R84sLLTTm6bR5LXqb3vckU",
+  },
   icons: {
     icon: "/favicon.ico",
   },
