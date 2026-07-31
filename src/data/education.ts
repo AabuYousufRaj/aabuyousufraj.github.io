@@ -15,7 +15,7 @@ export interface Education {
 
 export const educationData: Education[] = [
   {
-    year: "September 2022 - January 2026",
+    year: "2022 - 2026",
     institution: "BRAC University",
     logo: "/assets/images/education/BRACU_Logo.png",
     programs: [
