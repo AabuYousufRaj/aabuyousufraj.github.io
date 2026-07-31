@@ -30,8 +30,7 @@ export const leadershipData: Leadership[] = [
       "Actively participated in club training sessions, team-building activities, and competitive university football events to foster athletic development.",
     imageUrl: "",
     linkUrl: "",
-  }
-];
+  },
   // Add more leadership entries as needed
 ];
   
