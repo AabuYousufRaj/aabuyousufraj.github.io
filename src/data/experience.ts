@@ -24,7 +24,8 @@ export const experienceData: Experience[] = [
     company: "Chowa Giken Corporation",
     location: "Dhaka, Bangladesh",
     description:
-      "Selected as one of 10 participants from BRAC University from a pool of 1,000+ applicants for the NIPPON AI Dojo Program, an applied AI training initiative organized by Chowa Giken Corporation and AI Samurai Co. Ltd., with support from METI, Japan. Participating in industry-oriented on-the-job training focused on real-world AI development, and AI engineering workflows."
+      "Selected as one of 10 participants from BRAC University from a pool of 1,000+ applicants for the NIPPON AI Dojo Program, an applied AI training initiative organized by Chowa Giken Corporation and AI Samurai Co. Ltd., with support from METI, Japan. Participating in industry-oriented on-the-job training focused on real-world AI development, and AI engineering workflows.",
+  },
   {
     date: "June 2026 - Present",
     title: "Machine Learning Intern",
