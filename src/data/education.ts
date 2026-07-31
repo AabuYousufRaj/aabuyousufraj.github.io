@@ -24,7 +24,7 @@ export const educationData: Education[] = [
         cgpa: "CGPA: 3.88/4.00",
         description: "Graduated with Highest Distinction",
         notableCourses:
-          "Notable Courses: Advanced Algorithms, Artificial Intelligence, Machine Learning, Data Science, Natural Language Processing-II, Image Processing, Computer Vision, Neural Networks, Operating Systems, Database Systems, Software Engineering, Computer Networks, Compiler Design",
+          "Notable Courses: Advanced Algorithms, Artificial Intelligence, Machine Learning, Data Science, NLP-II, Image Processing, Computer Vision, Neural Networks",
         honors: "Academic Honors: Merit-Based Scholarship; Dean’s List & Vice-Chancellor’s List honoree for consistently outstanding academic performance.",
       },
     ],
