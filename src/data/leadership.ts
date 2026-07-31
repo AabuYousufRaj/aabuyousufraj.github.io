@@ -12,7 +12,7 @@ export const leadershipData: Leadership[] = [
     title: "Vice President, BRAC University Marketing Association (BUMA)",
     description: 
       "As Vice President of the BRAC University Marketing Association (BUMA), I led teams to execute high-impact campaigns, sponsorships, and diverse university-wide events. My event portfolio ranged from technical CTFs and programming contests  to esports tournaments and cultural fests. By streamlining logistics and partnering with BRACU Career Services for professional seminars, I successfully strengthened the association’s campus and industry presence.",
-    imageUrl: "/assets/images/leadership/club bootcamp.png",
+    imageUrl: "",
     linkUrl: "",
   },
   {
